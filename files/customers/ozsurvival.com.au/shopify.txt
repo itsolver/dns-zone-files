@@ -12,4 +12,4 @@
 @ 300 IN A 23.227.38.32
 
 ;; === CNAME Record ===
-www 300 IN CNAME shops.myshopify.com.
+www 300 IN CNAME your-store-name.myshopify.com.
